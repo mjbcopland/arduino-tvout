@@ -38,10 +38,6 @@ set_vbi_hook	KEYWORD2
 set_hbi_hook	KEYWORD2
 tone	KEYWORD2
 noTone	KEYWORD2
-print_char	KEYWORD2
-set_cursor	KEYWORD2
-select_font	KEYWORD2
-print	KEYWORD2
-println	KEYWORD2
+setCursor	KEYWORD2
+selectFont	KEYWORD2
 printPGM	KEYWORD2
-
